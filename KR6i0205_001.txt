@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:45.063667
+#+DATE: 2015-08-30 20:12:46.435342
 #+TITLE: 差摩婆帝授記經
 #+PROPERTY: CBETA_ID T14n0573
 #+PROPERTY: ID KR6i0205
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 573
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0205_T_000-0945b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0205_T_001-0945b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.573¶
-
- 差摩婆帝授記經¶
+No. 573¶
+差摩婆帝授記經¶
 ¶
 元魏北印度三藏菩提流支譯¶
 
