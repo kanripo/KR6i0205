@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 差摩婆帝授記經
+#+DATE: 2015-08-30 20:12:45.286876
+#+PROPERTY: JUAN 0
